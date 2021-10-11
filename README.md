@@ -1,6 +1,6 @@
 # blogtober2021
 
-Resurrect your writing.
+👻 Resurrect your writing.
 
 ## 1. Start a Blog
 
@@ -16,4 +16,4 @@ Stuck? Use [one of these questions](https://worksofgenius.github.io/Icebreaker-R
 
 ## Join
 
-[Blogtober Website](https://worksofgenius.github.io/blogtober2021/)
+🎃 [Blogtober Website](https://worksofgenius.github.io/blogtober2021/)
